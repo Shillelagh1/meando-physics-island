@@ -1,0 +1,4 @@
+# Starting compiling Assembly-CSharp.dll
+E:\Unity\Editors\2020.3.8f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2dfc5d76a119deb41816bc654352ad93
+# Starting IL post processing on Assembly-CSharp.dll
+E:/Unity/Editors/2020.3.8f1/Editor/Data/MonoBleedingEdge/bin/mono.exe E:/Unity/Editors/2020.3.8f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe @D:/Documents/Unity/Meando/meando-physics-island/Temp/UnityTempFile-cf84dc4bdf7e3a849a8f3a0381403a10
